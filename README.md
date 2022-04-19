@@ -1,8 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm João Marinho! 🌻</h1>
 
+<p align="center" style="font-style:italic;">I'm 20 years old and I'm a 3st year student of the Master in Computing and Informatics Engineering @FEUP</p>
+
+### My interests:
+
+💻 Software
+
+🌎 Travelling
+
+🚗 Cars
+
+💪 Sports
+ 
+_Reach me on [LinkedIn](https://www.linkedin.com/in/joaoamarinho/)_
 <!--
-**JoaoAMarinho/JoaoAMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
