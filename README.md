@@ -1,17 +1,27 @@
-<h1 align="center">Hello, I'm João Marinho! 🌻</h1>
+<h1 align="center">Hello, I'm João Marinho! :octocat: </h1> 
 
 <p align="center" style="font-style:italic;">I'm 20 years old and I'm a 3st year student of the Master in Computing and Informatics Engineering @FEUP</p>
 
 ### My interests:
+<p align="center">
+ <p>
+  💻 Software &nbsp;&nbsp;
+  🌎 Travelling &nbsp;&nbsp;
+ </p>
+ <p>
+   🚗 Cars &nbsp;&nbsp;
+   💪 Sports
+ </p>
+</p>
 
-💻 Software
+### My Stats:
 
-🌎 Travelling
+<p align="center">
+ <img width="450" height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=joaoamarinho&hide=prs&count_private=true&show_icons=true&theme=github_dark ">
+ <img width="340" height="154" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamarinho&layout=compact&theme=github_dark&hide=Makefile,Cmake,Shell,Starlark,M4,Html&line_height=27 ">
+</p>
 
-🚗 Cars
-
-💪 Sports
- 
+### Contacts:
 _Reach me on [LinkedIn](https://www.linkedin.com/in/joaoamarinho/)_
 <!--
 Here are some ideas to get you started:
