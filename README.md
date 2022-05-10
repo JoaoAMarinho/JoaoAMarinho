@@ -9,7 +9,7 @@
   🌎 Travelling &nbsp;&nbsp;
  </p>
  <p>
-   🚗 Cars &nbsp;&nbsp;
+   🚗 Cars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    💪 Sports
  </p>
 </p>
