@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm João Marinho! :octocat: </h1> 
 
-<p align="center" style="font-style:italic;">I'm 20 years old and I'm a 3rd year student of the Master in Computing and Informatics Engineering @FEUP</p>
+<p align="center" style="font-style:italic;">I'm 21 years old and I'm a 4th year student of the Master in Computing and Informatics Engineering @FEUP</p>
 
 ### My interests:
 <p align="center">
