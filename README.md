@@ -1,16 +1,16 @@
 <h1 align="center">Hello, I'm João Marinho! :octocat: </h1> 
 
-<p align="center" style="font-style:italic;">I'm 21 years old and I'm a 4th year student of the Master in Computing and Informatics Engineering @FEUP</p>
+<p align="center" style="font-style:italic;">I'm a Master in Computing and Informatics Engineering @FEUP</p>
 
 ### My interests:
 <p align="center">
  <p>
-  💻 Software &nbsp;&nbsp;
+  🤖 Robotics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   🌎 Travelling &nbsp;&nbsp;
  </p>
  <p>
-   🚗 Cars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   💪 Sports
+   🚗 Autonomous Vehicles &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   💪 Crossfit
  </p>
 </p>
 
