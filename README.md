@@ -22,7 +22,10 @@
 </p>
 
 ### Contacts:
-_Reach me on [LinkedIn](https://www.linkedin.com/in/joaoamarinho/)_
+
+> [LinkedIn](https://www.linkedin.com/in/joaoamarinho/)
+>
+> [Personal Portfolio](https://joaoamarinho.github.io/)
 <!--
 Here are some ideas to get you started:
 
